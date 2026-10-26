@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# Pokémon
+## My favorite series
